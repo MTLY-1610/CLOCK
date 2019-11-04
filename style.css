@@ -1,11 +1,14 @@
-* {
+body {
     background-color:#2B3F9B;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .clock {
+
     display: flex;
+    align-items: center;
+    justify-content: center;
     width:600px;
     height: 600px;
     border-radius: 600px;
