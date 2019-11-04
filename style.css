@@ -1,0 +1,13 @@
+* {
+    background-color:#2B3F9B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.clock {
+    display: flex;
+    width:600px;
+    height: 600px;
+    border-radius: 600px;
+    background-color: beige;
+}
